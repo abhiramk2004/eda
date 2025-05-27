@@ -12,6 +12,7 @@ Survival rate visualizations across:
   - Embarked port
   - Family size
   - Cabin availability
+
 FamilySize = SibSp + Parch
 IsAlone = 1 if no family members onboard
 Extracted Title from Name column
